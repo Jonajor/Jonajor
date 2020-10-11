@@ -1,4 +1,5 @@
 ### Hi there 👋
+Here you will find some of the projects that I developed in order to become a better professional.
 
 <!--
 **Jonajor/Jonajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
