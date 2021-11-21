@@ -15,8 +15,8 @@ Kotlin, Python and GraphQL. And I'm specializing in distributed systems architec
 
 ## Meus dados no Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonajor&show_icons=true)
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonajor&layout=compact)](https://github.com/Jonajor)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Jonajor/Jonajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
