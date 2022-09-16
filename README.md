@@ -8,7 +8,7 @@ Kotlin, Python and GraphQL. And I'm specializing in distributed systems architec
 
 <hr></hr>
 <h3> 📫 How to reach me: ...</h3>
-<a href="https://www.linkedin.com/in/jonathan-augusto-jorge-7a582342/" rel="nofollow">
+<a href="https://www.linkedin.com/in/jonathanjorge" rel="nofollow">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="max-width:100%;">
   </a>
 
