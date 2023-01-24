@@ -7,6 +7,7 @@ Here you will find some of the projects that I developed in order to become a be
 #### 📫 Contact Information
 - LinkedIn: [linkedin.com/in/jonathanjorge](https://linkedin.com/in/jonathanjorge)
 - GitHub: [github.com/Jonajor](https://github.com/Jonajor)
+- See my professional resume: [portfolio](https://sites.google.com/view/jonathan-jorge)
 
 
 ### Summary
