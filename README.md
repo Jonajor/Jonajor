@@ -7,8 +7,6 @@ Here you will find some of the projects that I developed in order to become a be
 #### 📫 Contact Information
 - LinkedIn: [linkedin.com/in/jonathanjorge](https://linkedin.com/in/jonathanjorge)
 - GitHub: [github.com/Jonajor](https://github.com/Jonajor)
-- See my professional resume: [portfolio](https://sites.google.com/view/jonathan-jorge)
-
 
 ### Summary
 Dedicated and highly-versatile Software Engineer, with extensive experience in the design, testing, implementation, and maintenance of complex software development life cycles across multiple platforms and programming languages, with excellent client relations, critical thinking, and team collaboration skills.
