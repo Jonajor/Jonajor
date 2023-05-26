@@ -13,7 +13,7 @@ However, I'm also intensively exploring such topics like (among other things):
 🔹 Apache Kafka <br>
 🔹 Kubernetes <br>
 🔹 Ktor Framework <br>
-🔹Cache <br>
+🔹 Cache <br>
 
 ### 🌱 Studying
 
