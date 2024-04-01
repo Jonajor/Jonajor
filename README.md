@@ -13,11 +13,7 @@ However, I'm also intensively exploring such topics like (among other things):
 🔹 Kubernetes <br>
 🔹 Ktor Framework <br>
 🔹 Cache <br>
-
-### 🌱 Studying
-
 🔹 Distributed systems architecture <br>
-🔹 Kubernetes <br>
 🔹 Terraform <br>
 🔹 English
 
