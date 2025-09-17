@@ -21,11 +21,6 @@ However, I'm also intensively exploring such topics like (among other things):
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanjorge)
 
 
-## My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonajor&show_icons=true)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonajor&layout=compact)](https://github.com/Jonajor)
-
 <!--
 **Jonajor/Jonajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
