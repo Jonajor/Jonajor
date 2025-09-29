@@ -1,21 +1,7 @@
 ### Hi there 👋 My name's Jonathan
 
-<hr></hr>
+<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=x1xhlol&hide=contribs,issues&show_icons=true" /></p>
 
-### 🛠 Tech Stack (mostly)
-🔹 Spring Boot <br>
-🔹 Java <br>
-🔹 Kotlin <br>
-
-However, I'm also intensively exploring such topics like (among other things):
-
-🔹 Apache Kafka <br>
-🔹 Kubernetes <br>
-🔹 Ktor Framework <br>
-🔹 Cache <br>
-🔹 Distributed systems architecture <br>
-🔹 Terraform <br>
-🔹 English
 
 #### 📫 Contact Information
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanjorge)
