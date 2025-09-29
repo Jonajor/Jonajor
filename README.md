@@ -1,7 +1,5 @@
 ### Hi there 👋 My name's Jonathan
 
-<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=x1xhlol&hide=contribs,issues&show_icons=true" /></p>
-
 
 #### 📫 Contact Information
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanjorge)
